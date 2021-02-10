@@ -19,7 +19,7 @@ Motivation
 Sometimes you just want to see the exact readme
 result before committing and pushing to GitHub.
 
-Especially when doing [Readme-driven development][rdd].
+Especially when doing [Readme-driven development].
 
 
 Installation
